@@ -1,5 +1,5 @@
 ---
-name: plan
+name: blueprint
 description: Given a card/ticket, generate a full DDD-aligned implementation plan (DB → BE → FE → tests) with strict TypeScript, then save it as a reusable context file at .claude/context/<feature-slug>.md for use throughout development.
 ---
 
